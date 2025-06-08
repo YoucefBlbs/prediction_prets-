@@ -15,17 +15,13 @@ Ce projet vise à prédire l’éligibilité à l’octroi d’un prêt personne
 ---
 
 ## 📁 Structure du projet
-
-prediction_prets/
-├── rapport_projet_pret.pdf # Rapport complet
-├── bivariate_analysis.ipynb # Analyse exploratoire
-├── loan_prediction_model.ipynb # Modélisation machine learning
-├── visuals/
-│ ├── matrice_confusion.png
-│ └── importance_variables.png
-└── README.md
----
-
+```
+📁 prediction_prets
+├─ 📄 rapport_projet_pret.pdf
+├─ 📓 bivariate_analysis.ipynb
+├─ 📓 loan_prediction_model.ipynb
+└─ 📝 README.md
+```
 ## 🔧 Outils & Technologies
 
 - Python 3.x
