@@ -39,7 +39,6 @@ prediction_prets/
 ## 📂 Données
 
 Les données utilisées dans ce projet sont fictives et simulées dans le cadre d’un projet académique.  
-Un petit échantillon anonymisé est fourni dans le fichier `sample_dataset.csv` afin de permettre la reproduction des étapes du projet.
 
 ---
 
