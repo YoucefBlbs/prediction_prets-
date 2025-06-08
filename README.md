@@ -17,12 +17,13 @@ Ce projet vise à prédire l’éligibilité à l’octroi d’un prêt personne
 ## 📁 Structure du projet
 
 prediction_prets/
-├── notebook.ipynb # Code complet (analyse + modélisation)
-├── sample_dataset.csv # Données fictives simulées
-├── rapport_projet_pret.pdf # Rapport d’analyse complet (PDF)
-├── visuals/ # Graphiques et résultats
+├── rapport_projet_pret.pdf # Rapport complet
+├── bivariate_analysis.ipynb # Analyse exploratoire
+├── loan_prediction_model.ipynb # Modélisation machine learning
+├── visuals/
 │ ├── matrice_confusion.png
 │ └── importance_variables.png
+└── README.md
 ---
 
 ## 🔧 Outils & Technologies
